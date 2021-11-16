@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamDavis0&label=Profile%20views&color=0e75b6&style=flat" alt="SamDavis0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo" alt="nathannosudo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamDavis0" alt="SamDavis0" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux, React Native in more depth**
 
