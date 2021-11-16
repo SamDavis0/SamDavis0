@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React, Redux, React Native in more depth**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://samdavis0.github.io/)
-- 
+
 - 💬 Ask me about **React, HTML, CSS**
 
 - 📫 How to reach me **hsndm16@yahoo.com**
