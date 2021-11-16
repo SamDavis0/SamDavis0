@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **Sam Davis**</h1>
+<h1 align="center">Hi 👋, I'm Sam Davis</h1>
 <h3 align="center">A passionate Full-Stack developer from Houston</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamDavis0&label=Profile%20views&color=0e75b6&style=flat" alt="SamDavis0" /> </p>
