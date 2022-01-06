@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamDavis0" alt="SamDavis0" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, React Native in more depth**
+- 🌱 I’m currently honing my skills further in **React, React Native, and Redux **
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://samdavis0.github.io/)
 
