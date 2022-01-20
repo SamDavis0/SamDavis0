@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://samdavis0.github.io/)
 
-- 💬 Ask me about **React, HTML, CSS**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **hsndm16@yahoo.com**
 
