@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently honing my skills further in **React, React Native, and Redux **
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://samdavis0.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://samdavis0.github.io/portfolio)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
