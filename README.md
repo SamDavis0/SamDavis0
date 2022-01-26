@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hsndm16@yahoo.com**
 
-- 📄 Know about my experiences [My Resume](https://samdavis0.github.io/sam_davis_resume_2021.pdf)
+- 📄 Know about my experiences [My Resume](https://samdavis0.github.io/portfolio/sam_davis_resume_2022.pdf)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
