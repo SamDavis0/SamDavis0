@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **hsndm16@yahoo.com**
+- 📫 How to reach me **sam.davis.dev@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://samdavis0.github.io/portfolio/static/media/Sam_Davis_Resume_2022.808b477fce8ff62c0366.pdf)
 
