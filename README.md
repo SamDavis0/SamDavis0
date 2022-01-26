@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sam.davis.dev@gmail.com**
 
-- 📄 Check out my resume [My Resume](https://samdavis0.github.io/portfolio/static/media/Sam_Davis_Resume_2022.808b477fce8ff62c0366.pdf)
+- 📄 Here is [My Resume](https://samdavis0.github.io/portfolio/static/media/Sam_Davis_Resume_2022.808b477fce8ff62c0366.pdf)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
